@@ -20,6 +20,13 @@ const __DATA__ = {
         },
     ],
     'links' : [
+        {
+            'image' : 'catalogue.jpg',
+            'title' : 'CATALOGUE', 
+            'show-value' : 'Liên Kết Driver Catalogue',
+            'value' : 'https://drive.google.com/file/d/16F29m8UftuVBgGBMsceuqpCDXcwYpjyD/view?usp=drivesdk',
+            'type' : 0,
+        },
         
         {
             'image' : 'facebook.jpg',
