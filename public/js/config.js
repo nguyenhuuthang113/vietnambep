@@ -20,13 +20,7 @@ const __DATA__ = {
         },
     ],
     'links' : [
-        {
-            'image' : 'wallet.png',
-            'title' : 'Thông Tin Thanh Toán', 
-            'show-value' : 'PHẠM THỊ AN NA',
-            'value' : 'https://chanlemomo.store/',
-            'type' : 0,
-        },
+        
         {
             'image' : 'facebook.jpg',
             'title' : 'Facebook Quản Lý', 
@@ -53,6 +47,13 @@ const __DATA__ = {
             'title' : 'Gmail', 
             'show-value' : 'Anna@vietnambep.vn',
             'value' : 'mailto:anna@vietnambep.vn',
+            'type' : 0,
+        },
+        {
+            'image' : 'wallet.png',
+            'title' : 'Thông Tin Thanh Toán', 
+            'show-value' : 'PHẠM THỊ AN NA',
+            'value' : 'https://chanlemomo.store/',
             'type' : 0,
         },
     ]
