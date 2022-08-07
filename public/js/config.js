@@ -30,9 +30,9 @@ const __DATA__ = {
         
         {
             'image' : 'facebook.jpg',
-            'title' : 'Facebook Quản Lý', 
-            'show-value' : 'An Na' ,
-            'value' : 'https://www.facebook.com/profile.php?id=100007048219029',
+            'title' : 'Fanpage', 
+            'show-value' : 'Việt Nam Bếp' ,
+            'value' : 'https://www.facebook.com/108400174989955/',
             'type' : 0,
         },
         {
