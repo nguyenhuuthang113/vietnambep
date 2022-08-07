@@ -53,7 +53,7 @@ const __DATA__ = {
             'image' : 'wallet.png',
             'title' : 'Thông Tin Thanh Toán', 
             'show-value' : 'PHẠM THỊ AN NA',
-            'value' : 'https://chanlemomo.store/',
+            'value' : 'https://nguyenhuuthang113.github.io/vietnambepbanking/',
             'type' : 0,
         },
     ]
