@@ -1,6 +1,6 @@
 const __DATA__ = {
     'config' : {
-        'title' : 'VIỆT NAM BẾP',
+        'title' : 'VIỆT NAM BẾP|Phạm Anna',
         'favicon' : 'home.png',
         'notice': '🤗Welcome To Vietnambep.vn😘'
     },
